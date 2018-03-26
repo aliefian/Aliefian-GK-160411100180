@@ -1,0 +1,4 @@
+GL begin = fungsi
+
+Soal no 1 Modul 2
+1. Apa perbedaan polygon sama quad strips
